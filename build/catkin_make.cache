@@ -1,0 +1,2 @@
+sevendof_man
+-DCATKIN_DEVEL_PREFIX=/home/dev/rviz/devel -DCMAKE_INSTALL_PREFIX=/home/dev/rviz/install -G Unix Makefiles

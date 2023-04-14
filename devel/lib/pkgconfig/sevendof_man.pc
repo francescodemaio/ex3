@@ -1,0 +1,8 @@
+prefix=/home/dev/rviz/devel
+
+Name: sevendof_man
+Description: Description of sevendof_man
+Version: 0.0.0
+Cflags: -I/home/dev/rviz/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

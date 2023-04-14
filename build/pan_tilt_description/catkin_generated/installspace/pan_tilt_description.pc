@@ -1,0 +1,8 @@
+prefix=/home/dev/rviz/install
+
+Name: pan_tilt_description
+Description: Description of pan_tilt_description
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
